@@ -12,10 +12,10 @@ This program uses a variation of the 2-3-5-7 wheel sieve generator to generate p
 ## Complexity
 **Time Complexity**
 - The prime number generator algorithm has a time complexity of **O(n)**.
-- The prime multiplication table has a time complexity of **O(n^2)**. This optimization is done by mirroring the multiplication table above the top-left to bottom-right diagonal axis, cutting computation time approximately in half.
+- The prime multiplication table has a time complexity of **O(n^2)**. Optimization is done by mirroring the multiplication table above the top-left to bottom-right diagonal axis, cutting computation time approximately in half.
 
 **Space Complexity**
-- The prime number generator algorithm  has a space complexity of **O(sqrt(n))**. 
+- The prime number generator algorithm has a space complexity of **O(sqrt(n))**. 
 - The prime multiplication table has a space complexity of **O(n^2)** 
 
 **How does it scale?**
