@@ -38,6 +38,10 @@ describe("postponedSieve", () => {
             expect(generator.next().value).toBe(2);
         });
 
+        it("should return an object", () => {
+            expect(generator.next() instanceof Object).toBeTruthy();
+        });
+
         it("should return 2, again with a new generator", () => {
             expect(generator.next().value).not.toBe(3);
         });
