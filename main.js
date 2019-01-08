@@ -21,5 +21,6 @@ for (let y = 0; y < primeList.length; y++) {
     primeTable[y] = primeRow;
 }
 
+primeTable[0][0] = '';
 let tableOutput = table(primeTable);
 console.log(tableOutput);
