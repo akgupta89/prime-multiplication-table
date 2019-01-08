@@ -1,0 +1,9 @@
+{
+  "name": "prime-multiplication-table",
+  "version": "1.0.0",
+  "dependencies": {
+    "common-algorithms-js": "^2.2.0",
+    "jasmine": "^3.3.1",
+    "table": "^5.1.1"
+  }
+}
