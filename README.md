@@ -1,6 +1,6 @@
 # Prime Multiplication Table
 
-JavaScript implementation of a prime multiplication table genrator. 
+JavaScript implementation of a prime multiplication table generator. 
 
 ## Overview
 
