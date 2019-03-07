@@ -1,6 +1,6 @@
 # Prime Multiplication Table
 
-JavaScript implementation of the Funding Circle Coding Challenge done in Node.JS & ES6. 
+JavaScript implementation of a prime multiplication table genrator. 
 
 ## Overview
 
