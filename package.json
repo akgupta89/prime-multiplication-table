@@ -11,5 +11,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/akgupta89/prime-multiplication-table.git"
+  },
+  "scripts": {
+    "test": "jasmine"
   }
 }
