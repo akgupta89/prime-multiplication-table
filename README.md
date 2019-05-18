@@ -29,8 +29,7 @@ The generator can generate a million prime numbers in under a second on a modern
 4. Change the number 10 to any positive integer
 
 ## Running Tests
-1. Run `npm install` to install jasmine
-2. Run the tests `npm test`
+1. Run the tests `npm test`
 
 License
 ----
