@@ -29,7 +29,7 @@ The generator can generate a million prime numbers in under a second on a modern
 4. Change the number 10 to any positive integer
 
 ## Testing
-1. `npm test`
+1. Run `npm test`
 
 License
 ----
