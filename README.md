@@ -24,13 +24,13 @@ The generator can generate a million prime numbers in under a second on a modern
 
 ## Install
 1. Clone the repo, make sure you have Node.JS installed
-2. Run `npm install` to install external dependencies (Table, Jasmine)
+2. Run `npm install`
 3. Run `node main.js 10`
 4. Change the number 10 to any positive integer
 
 ## Running Tests
 1. Run `npm install` to install jasmine
-2. Run the tests `node node_modules/jasmine/bin/jasmine`
+2. Run the tests `npm test`
 
 License
 ----
