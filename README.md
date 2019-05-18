@@ -28,8 +28,8 @@ The generator can generate a million prime numbers in under a second on a modern
 3. Run `node main.js 10`
 4. Change the number 10 to any positive integer
 
-## Running Tests
-1. Run the tests `npm test`
+## Testing
+1. `npm test`
 
 License
 ----
